@@ -1,5 +1,5 @@
 # Game_Tetris
-Game Tetris Java
+
 The goal is to fill the maximum number of contours (German: Umrisse) by falling pieces of different shapes -- Tetris stones (German: Steine), or "polyomino". These stones are randomly generated and have certain sizes (k*k).
 
 Each contour is a combination of two polyform stones. There are also parking spaces (German: Parkplatz),where stones can be stored ("parked") if there is no time to put them in the contour or a stone in the contour is occupied.
